@@ -1,0 +1,86 @@
+.heading{
+    margin-bottom: 200px;
+    margin-bottom: 0px;
+}
+
+.heading1{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+
+    font-size: 60px; 
+    margin-left: 10px;
+}
+
+.heading2{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 50px;
+    color: #F5F5F5;
+    margin-top: 20px;
+    margin-right: 40px;
+    font-size: 22px;
+    margin-left: 30px;
+}
+
+.Validator{
+    color: #9681EB;
+}
+
+form{
+    margin-bottom: 50px;
+}
+
+.main{
+    margin-bottom: 25%;
+}
+
+.Input{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+.Check{
+    color: #C5DFF8;
+}
+.submitButton{
+    margin: 30px;
+    margin-left: 20px;
+}
+.btnSpan{
+    margin-left: 20px;
+}
+.submitBtn{
+    height: 32px;
+    margin-bottom: 7px;
+    width: 90px;
+}
+.final-table{
+    margin-left: 10%;
+}
+
+.display__table{
+    width: 500px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.table__heading{
+    color: #9681EB;
+    text-align: center;
+    margin: 30%;
+}
+td{
+    color: white;
+}
+
+.footer{
+    margin-top: 20px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.main{
+   margin-bottom: 0px;
+}
